@@ -1,1 +1,1 @@
-from . import test_module_trigger
+from . import test_product_t
