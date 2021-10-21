@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_jpm_trigger_jpm_trigger,jpm_trigger.jpm_trigger,model_jpm_trigger_jpm_trigger,base.group_user,1,1,1,1
